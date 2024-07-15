@@ -25,5 +25,6 @@ Data Source - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
 ## Data Modeling
 
+![Team document](https://github.com/user-attachments/assets/f5d6c764-aa4c-4331-b7fd-93ab7ea8f21c)
 
 
