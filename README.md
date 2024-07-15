@@ -10,7 +10,7 @@ Data Source - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 - ```City```: Location of supercenters
 - ```Customer type```: Type of customers, recorded by Members for customers using member card and Normal for without member card.
 - ```Gender```: Gender type of customer
-- ```Product line```: General item categorization groups - Electronic accessories, Fashion accessories, Food and beverages, Health and ```beauty, Home and lifestyle, Sports and travel
+- ```Product line```: General item categorization groups - Electronic accessories, Fashion accessories, Food and beverages, Health and beauty, Home and lifestyle, Sports and travel
 - ```Unit price```: Price of each product in $
 - ```Quantity```: Number of products purchased by customer
 - ```Tax```: 5% tax fee for customer buying
