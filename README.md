@@ -24,7 +24,7 @@ Data Source - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 - ```Rating```: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
 
 ## Data Modeling
-Using 2 primary key is more realistic as one invoice cannot have only 1 type of item.
+Using composite primary key is more realistic as one invoice cannot have only 1 type of item.
 ![Team document](https://github.com/user-attachments/assets/f5d6c764-aa4c-4331-b7fd-93ab7ea8f21c)
 
 ## Creating a PostgresDB
